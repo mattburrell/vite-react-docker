@@ -1,6 +1,8 @@
 # vite-react-docker
 
-Demo repo showing how to Dockerize a Vite React app and run as a static website using NGINX
+Demo repo showing how to Dockerize a Vite React app and run as a static website using NGINX.
+
+To read an article about this repo see [here](https://medium.com/@mattburrellnet/running-a-react-vite-app-in-docker-using-nginx-414ff9a302c5).
 
 ## Dependencies
 
